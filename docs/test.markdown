@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: my test homepage
-parmalink: /
+title: my test title
+parmalink: /test
 ---
 
 test
