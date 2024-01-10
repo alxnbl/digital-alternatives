@@ -1,0 +1,12 @@
+{% assign nav_language = page.collection | default: site.language_default %}
+{% assign menu_items = site.data.t.menu_items.[nav_language] %}
+{% unless menu_items %}
+  {% assign menu_items = site.data.t.menu_items.[site.language_default] %}
+{% endunless %}
+
+
+{% for item in menu_items %}
+  <li>
+    <a href="{{ item.path }}">{{ item.label }}</a>
+  </li>
+{% endfor %}

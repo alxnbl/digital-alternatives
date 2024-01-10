@@ -1,0 +1,27 @@
+title:
+  en: Digital Alternatives
+  fr: Alternatives numériques
+
+languages:
+  en:
+    value: English
+    slug: en
+  fr:
+    value: Français
+    slug: fr
+
+back:
+  en: Back to the Top
+  fr: Retour en haut
+
+top:
+  en: Top
+  fr: Haut
+
+categories:
+  en:
+    alternatives: Alternatives
+    whereToStart: Where to start ?
+  fr:
+    alternatives: Alternatives
+    whereToStart: Par quoi commencer ?

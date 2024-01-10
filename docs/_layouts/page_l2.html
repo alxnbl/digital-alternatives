@@ -1,0 +1,10 @@
+---
+layout: base
+---
+
+<strong>{{ site.data.snippets.categories[page.language][page.category] }}</strong> :
+<nav>
+    {% include navigation_l2.html category=page.category %}
+</nav>
+
+{{ content }}

@@ -6,3 +6,7 @@ layout: default
 ---
 
 Bienvenue !
+
+{% include menu.html %}
+
+[Test](about.md)
