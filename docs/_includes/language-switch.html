@@ -1,7 +1,7 @@
         <ul>
           {%- for language in snippets.languages %}
 
-            {%- if page.layout == 'page' %}
+            {%- if page.layout == 'page' || page.layout == 'page_l2' %}
               {%- assign navigation_pages = site.pages
                 | where: 'language_reference', page.language_reference
                 | where: 'language', language[1].slug %}

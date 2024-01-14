@@ -10,7 +10,7 @@ absoluteurl: 'https://alxnbl.github.io/digital-alternatives'
 #version: '2021-01-01'
 
 default_language: 'fr'
-fallback_page: 'stories'
+fallback_page: 'home'
 
 timezone: Europe/Paris
 encoding: utf-8
@@ -58,20 +58,20 @@ defaults:
     page-type: page
 -
   scope:
-    path: 'en/alternatives'
+    path: 'en/guide-transition'
     type: 'page'
   values:
     layout: page_l2
     depthLevel: 2
-    category: alternatives
+    category: guide-transition
 -
   scope:
-    path: 'fr/alternatives'
+    path: 'fr/guide-transition'
     type: 'page'
   values:
     layout: page_l2
     depthLevel: 2
-    category: alternatives
+    category: guide-transition
 -
   scope:
     path: '_posts/en'

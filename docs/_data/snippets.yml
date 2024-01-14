@@ -3,12 +3,12 @@ title:
   fr: Alternatives numériques
 
 languages:
-  en:
-    value: English
-    slug: en
   fr:
     value: Français
     slug: fr
+  en:
+    value: English
+    slug: en
 
 back:
   en: Back to the Top
