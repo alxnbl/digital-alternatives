@@ -1,0 +1,58 @@
+header:
+  en:
+    - title: What's going wrong ?
+      url: /en/whats_going_wrong
+    - title: There are alternatives !
+      url: /en/alternatives
+    - title: Transition guide
+      url: /guide/en/introduction
+    - title: About
+      url: /en/about
+  fr:
+    - title: Qu'est-ce qui ne va pas ?
+      url: /fr/qu_est_ce_qui_ne_va_pas
+    - title: Des alternatives ?
+      url: /fr/alternatives
+    - title: Guide de transition
+      url: /guide/fr/introduction
+    # - title: Actualité
+    #   url: /fr/blog
+    - title: A propos
+      url: /fr/a_propos.html
+
+guide-en:
+  - title:      Introduction
+    children:
+      - title:  Introduction
+        url:    /guide/en/introduction
+  - title:      Dependency with GAFAM
+    children:
+      - title:  Link1
+        url:    /guide/en/link1
+      - title:  Link2
+        url:    /guide/en/link2
+  - title:      Vie privée
+    children:
+      - title:  Lien1
+        url:    /guide/en/lien1
+      - title:  Lien3
+        url:    /guide/en/lien3
+
+
+guide-fr:
+  - title:      Introduction
+    children:
+      - title:  Introduction
+        url:    /guide/fr/introduction
+  - title:      Dépendances aux géants du numérique
+    children:
+      - title:  Lien1
+        url:    /guide/fr/lien1
+      - title:  Lien1
+        url:    /guide/fr/lien1
+  - title:      Vie privée
+    children:
+      - title:  Lien1
+        url:    /guide/fr/lien1
+      - title:  Lien3
+        url:    /guide/fr/lien3
