@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: articles
 titles:
   # @start locale config
@@ -40,4 +40,4 @@ articles:
   {%- include scripts/home.js -%}
 </script>
 
-{{ content }}
+{{ content }} -->

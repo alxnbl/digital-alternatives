@@ -16,7 +16,7 @@ header:
     - title: Qu'est-ce qui ne va pas ?
       url: /fr/qu_est_ce_qui_ne_va_pas
       key: whats_going_wrong
-    - title: Des alternatives ?
+    - title: Quelles alternatives ?
       url: /fr/alternatives
       key: alternatives
     - title: Guide de transition
@@ -55,57 +55,57 @@ guide-fr:
         work-in-progress: true
 
       - title:  Quitter Windows pour Linux
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/quitter_windows_linux
         work-in-progress: true
 
       - title:  Adopter un moteur de recherche éthique
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/adopter_moteur_recherche_ethique
         work-in-progress: true
 
       - title:  Dégoogliser son téléphone Android
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/degoogliser_son_telephone_android
         work-in-progress: true
 
       - title:  Adopter une adresse email éthique
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/adopter_adresse_email_ethique
         work-in-progress: true
 
       - title:  Naviguer sur internet en sécurité avec Firefox
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/naviguateur_internet_securise_firefox
         work-in-progress: true
 
-      - title:  Stocker mes documents grâce à Nextcloud
-        url:    /guide/fr/a_construire
+      - title:  Stocker ses documents grâce à Nextcloud
+        url:    /guide/fr/stocker_documents_nextcloud
         work-in-progress: true
 
-      - title:  Stocker mes photos hors de Google Photos et iCloud
-        url:    /guide/fr/a_construire
+      - title:  Stocker ses photos hors de Google Photos et iCloud
+        url:    /guide/fr/alternatives_stockage_photos
         work-in-progress: true
  
   - title:      Vie privée, liberté d'expression et d'information
     children:
       - title:  Naviguer sur internet en sécurité avec Firefox
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/naviguateur_internet_securise_firefox
         work-in-progress: true
         
       - title:  Dégoogliser mon téléphone Android
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/degoogliser_son_telephone_android
         work-in-progress: true
 
       - title:  Adopter un moteur de recherche éthique
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/adopter_moteur_recherche_ethique
         work-in-progress: true
 
       - title:  Adopter une adresse email éthique
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/adopter_adresse_email_ethique
         work-in-progress: true
 
       - title:  Adopter la messagerie instantanée Signal
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/signal_messagerie_instantanee
         work-in-progress: true
 
-      - title:  Suivez l'actualité sUtilisez les flux RSS pour vous abonner aux sites que vous aimez
-        url:    /guide/fr/a_construire
+      - title:  Suivre l'actualité grâce aux flux RSS des sites que vous aimez
+        url:    /guide/fr/actualite_flux_rss
         work-in-progress: true
 
   - title:      Réduction de son impact environnemental 
@@ -115,5 +115,5 @@ guide-fr:
         work-in-progress: true
 
       - title:  Adopter un Fairphone
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/fairphone
         work-in-progress: true

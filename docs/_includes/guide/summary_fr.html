@@ -1,0 +1,35 @@
+
+<table>
+    <thead>
+      <tr>
+        <th>Critères</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- if page.guide.duree -%}
+      <tr>
+        <td>Durée</td>
+        <td>{{ page.guide.duree }}</td>
+      </tr>
+      {%- endif -%}
+      {%- if page.guide.complexite -%}
+      <tr>
+        <td>Difficulté</td>
+        <td>{{ page.guide.difficulte }}</td>
+      </tr>
+      {%- endif -%}
+      {%- if page.guide.cout -%}
+      <tr>
+        <td>Coût</td>
+        <td>{{ page.guide.cout }}</td>
+      </tr>
+      {%- endif -%}
+      {%- if page.guide.local-data -%}
+      <tr>
+        <td>Localisation des données</td>
+        <td>{{ page.guide.local-data }}</td>
+      </tr>
+      {%- endif -%}
+    </tbody>
+  </table>
