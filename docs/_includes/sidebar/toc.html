@@ -14,7 +14,11 @@
             {%- if _nav_url == _page_url -%}
               <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
             {%- else -%}
+              {%- if _child.work-in-progress -%}
+              <li class="toc-h2"><a href="{{ _nav_url }}" class="wip">{{ _child.title }} &#128679;</a></li>
+              {%- else -%}
               <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
         {%- endif -%}

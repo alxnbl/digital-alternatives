@@ -4,4 +4,4 @@ permalink: /guide/en/introduction
 key: guide-introduction
 ---
 
-This is an **intro**
+Work in progress...

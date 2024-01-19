@@ -5,6 +5,10 @@
 {%- else -%}
   <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- endif -%}
+
+{%- include snippets/get-lang.html -%}
+{%- assign _lang = __return -%}
+
     <div class="main">
       <div class="header__title">
         <div class="header__brand">
@@ -12,17 +16,16 @@
           {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
           {%- include snippets/get-nav-url.html path=_paths_root -%}
           {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.data.locale[_lang].SITETITLE }}</a>
           {%- endif -%}
         </div>
         {%- if site.search.provider -%}
           <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
         {%- endif -%}
       </div>
-      {%- include snippets/get-lang.html -%}
-      {%- assign _lang = __return -%}
-
+      
       {%- assign nav = site.data.navigation.header[_lang] -%}
+
       {%- if nav -%}
       <nav class="navigation">
         <ul>
@@ -38,6 +41,12 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
+          {%- if _lang == 'en' -%}
+          <li><a href="/"><button class="button button--secondary button--circle">🇫🇷</button></a></li>
+          {%- else -%}
+          <li><a href="/en/welcome"><button class="button button--secondary button--circle">🇬🇧</button></a></li>
+          {%- endif -%}
+          
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}

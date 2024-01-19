@@ -2,6 +2,15 @@
 layout: article
 title: Bienvenue
 key: page-welcome
+layout: article
+#nav_key: guide
+license: false
+aside:
+toc: true
+lang: fr
+show_edit_on_github: true
+show_date: true
+# lightbox: true
 ---
 
 Ce site a pour but de sensibiliser le plus grand nombre aux problèmes posés par les services numériques dominant et d'accompagner les lecteurs dans l'adoption d'alternatives plus éthiques et responsables.

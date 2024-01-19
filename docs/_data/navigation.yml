@@ -2,57 +2,118 @@ header:
   en:
     - title: What's going wrong ?
       url: /en/whats_going_wrong
+      key: whats_going_wrong
     - title: There are alternatives !
       url: /en/alternatives
+      key: alternatives
     - title: Transition guide
       url: /guide/en/introduction
+      key: guide
     - title: About
       url: /en/about
+      key: about
   fr:
     - title: Qu'est-ce qui ne va pas ?
       url: /fr/qu_est_ce_qui_ne_va_pas
+      key: whats_going_wrong
     - title: Des alternatives ?
       url: /fr/alternatives
+      key: alternatives
     - title: Guide de transition
       url: /guide/fr/introduction
-    # - title: Actualité
-    #   url: /fr/blog
+      key: guide
+    - title: Actu
+      url: /blog/
+      key: blog
     - title: A propos
-      url: /fr/a_propos.html
+      url: /fr/a_propos
+      key: about
 
 guide-en:
-  - title:      Introduction
+  - title:      Work in progress
     children:
       - title:  Introduction
         url:    /guide/en/introduction
-  - title:      Dependency with GAFAM
-    children:
-      - title:  Link1
-        url:    /guide/en/link1
-      - title:  Link2
-        url:    /guide/en/link2
-  - title:      Vie privée
-    children:
-      - title:  Lien1
-        url:    /guide/en/lien1
-      - title:  Lien3
-        url:    /guide/en/lien3
+        work-in-progress: true
 
 
 guide-fr:
   - title:      Introduction
     children:
-      - title:  Introduction
+      - title:  Comment suivre ce guide
         url:    /guide/fr/introduction
-  - title:      Dépendances aux géants du numérique
+        work-in-progress: true
+
+      - title:  Autres ressouces pour vous aider
+        url:    /guide/fr/autres_ressources
+        work-in-progress: true
+ 
+  - title:      Sevrage des géants du numérique
     children:
-      - title:  Lien1
-        url:    /guide/fr/lien1
-      - title:  Lien1
-        url:    /guide/fr/lien1
-  - title:      Vie privée
+      - title:  Arrêter de commander sur Amazon
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Quitter Windows pour Linux
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Adopter un moteur de recherche éthique
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Dégoogliser mon téléphone Android
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Adopter une adresse email éthique
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Naviguer sur internet en sécurité avec Firefox
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Stocker mes documents grâce à Nextcloud
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Stocker mes photos hors de Google Photos et iCloud
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+ 
+  - title:      Vie privée, liberté d'expression et d'information
     children:
-      - title:  Lien1
-        url:    /guide/fr/lien1
-      - title:  Lien3
-        url:    /guide/fr/lien3
+      - title:  Naviguer sur internet en sécurité avec Firefox
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+        
+      - title:  Dégoogliser mon téléphone Android
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Adopter un moteur de recherche éthique
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Adopter une adresse email éthique
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Adopter la messagerie instantanée Signal
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+      - title:  Suivez l'actualité sUtilisez les flux RSS pour vous abonner aux sites que vous aimez
+        url:    /guide/fr/a_construire
+        work-in-progress: true
+
+  - title:      Réduction de son impact environnemental 
+    children:
+      - title:  Changer sa façon de consommer les équipements et services numériques
+        url:    /guide/fr/changer_mode_consommation_du_numerique
+        work-in-progress: true
+
+      - title:  Adopter un Fairphone
+        url:    /guide/fr/a_construire
+        work-in-progress: true

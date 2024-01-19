@@ -57,6 +57,13 @@ ul.toc {
       font-weight: map-get($base, font-weight-bold);
     }
   }
+  
+  .toc-h2 {
+    &, .wip {
+      font-weight: map-get($base, font-weight);
+    }
+  }
+
   .toc-h3 {
     margin-left: map-get($spacers, 3);
   }
