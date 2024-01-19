@@ -51,7 +51,7 @@ guide-fr:
   - title:      Sevrage des géants du numérique
     children:
       - title:  Arrêter de commander sur Amazon
-        url:    /guide/fr/a_construire
+        url:    /guide/fr/arreter-amazon
         work-in-progress: true
 
       - title:  Quitter Windows pour Linux
@@ -62,7 +62,7 @@ guide-fr:
         url:    /guide/fr/a_construire
         work-in-progress: true
 
-      - title:  Dégoogliser mon téléphone Android
+      - title:  Dégoogliser son téléphone Android
         url:    /guide/fr/a_construire
         work-in-progress: true
 

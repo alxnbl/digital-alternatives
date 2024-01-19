@@ -3,6 +3,8 @@ layout: article
 title: A propos
 key: page-about
 permalink: /fr/a_propos
+aside: 
+    toc: false
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)

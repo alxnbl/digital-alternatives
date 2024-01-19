@@ -6,7 +6,7 @@ layout: article
 #nav_key: guide
 license: false
 aside:
-toc: true
+    toc: false
 lang: fr
 show_edit_on_github: true
 show_date: true
