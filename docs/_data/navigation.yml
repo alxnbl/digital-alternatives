@@ -17,8 +17,8 @@ header:
       url: /fr/qu_est_ce_qui_ne_va_pas
       key: whats_going_wrong
     - title: Quelles alternatives ?
-      url: /fr/alternatives
-      key: alternatives
+      url: /fr/solutions
+      key: solutions
     - title: Guide de transition
       url: /guide/fr/introduction
       key: guide
@@ -47,55 +47,23 @@ guide-fr:
       - title:  Autres ressouces pour vous aider
         url:    /guide/fr/autres_ressources
         work-in-progress: true
- 
-  - title:      Sevrage des géants du numérique
+
+  - title:      Navigation sécurisée sur internet
     children:
-      - title:  Arrêter de commander sur Amazon
-        url:    /guide/fr/arreter-amazon
-        work-in-progress: true
-
-      - title:  Quitter Windows pour Linux
-        url:    /guide/fr/quitter_windows_linux
-        work-in-progress: true
-
       - title:  Adopter un moteur de recherche éthique
         url:    /guide/fr/adopter_moteur_recherche_ethique
-        work-in-progress: true
-
-      - title:  Dégoogliser son téléphone Android
-        url:    /guide/fr/degoogliser_son_telephone_android
-        work-in-progress: true
-
-      - title:  Adopter une adresse email éthique
-        url:    /guide/fr/adopter_adresse_email_ethique
-        work-in-progress: true
-
-      - title:  Naviguer sur internet en sécurité avec Firefox
-        url:    /guide/fr/naviguateur_internet_securise_firefox
-        work-in-progress: true
-
-      - title:  Stocker ses documents grâce à Nextcloud
-        url:    /guide/fr/stocker_documents_nextcloud
-        work-in-progress: true
-
-      - title:  Stocker ses photos hors de Google Photos et iCloud
-        url:    /guide/fr/alternatives_stockage_photos
-        work-in-progress: true
- 
-  - title:      Vie privée, liberté d'expression et d'information
-    children:
-      - title:  Naviguer sur internet en sécurité avec Firefox
-        url:    /guide/fr/naviguateur_internet_securise_firefox
         work-in-progress: true
         
-      - title:  Dégoogliser mon téléphone Android
-        url:    /guide/fr/degoogliser_son_telephone_android
+      - title:  Surfer sur internet protégé par un VPN
+        url:    /guide/fr/vpn
+        work-in-progress: true
+        
+      - title:  Protégez-vous des cookies et des publicités intrusives
+        url:    /guide/fr/cookies-pub
         work-in-progress: true
 
-      - title:  Adopter un moteur de recherche éthique
-        url:    /guide/fr/adopter_moteur_recherche_ethique
-        work-in-progress: true
-
+  - title:      Réseaux sociaux, messagerie et actualité
+    children:
       - title:  Adopter une adresse email éthique
         url:    /guide/fr/adopter_adresse_email_ethique
         work-in-progress: true
@@ -103,17 +71,41 @@ guide-fr:
       - title:  Adopter la messagerie instantanée Signal
         url:    /guide/fr/signal_messagerie_instantanee
         work-in-progress: true
-
+        
       - title:  Suivre l'actualité grâce aux flux RSS des sites que vous aimez
         url:    /guide/fr/actualite_flux_rss
         work-in-progress: true
 
-  - title:      Réduction de son impact environnemental 
+  - title:      Documents et photos
     children:
+      - title:  Stocker ses documents grâce à Nextcloud
+        url:    /guide/fr/stocker_documents_nextcloud
+        work-in-progress: true
+
+      - title:  Stocker ses photos hors de Google Photos et iCloud
+        url:    /guide/fr/alternatives_stockage_photos
+        work-in-progress: true
+
+  - title:      Consommer autrement
+    children:
+      - title:  Arrêter de commander sur Amazon
+        url:    /guide/fr/arreter-amazon
+        work-in-progress: true
+
       - title:  Changer sa façon de consommer les équipements et services numériques
         url:    /guide/fr/changer_mode_consommation_du_numerique
         work-in-progress: true
 
       - title:  Adopter un Fairphone
         url:    /guide/fr/fairphone
+        work-in-progress: true
+
+  - title:      Ordinateur et Smartphone
+    children:
+      - title:  Quitter Windows pour Linux
+        url:    /guide/fr/quitter_windows_linux
+        work-in-progress: true
+        
+      - title:  Dégoogliser son téléphone Android
+        url:    /guide/fr/degoogliser_son_telephone_android
         work-in-progress: true

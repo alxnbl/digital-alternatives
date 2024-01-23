@@ -42,9 +42,9 @@
             {%- endif -%}
           {%- endfor -%}
           {%- if _lang == 'en' -%}
-          <li><a href="/"><button class="button button--secondary button--circle">🇫🇷</button></a></li>
+          <li><a href="{{ "/" | absolute_url }}"><button class="button button--secondary button--circle">🇫🇷</button></a></li>
           {%- else -%}
-          <li><a href="/en/welcome"><button class="button button--secondary button--circle">🇬🇧</button></a></li>
+          <li><a href="{{ "/en/welcome" | absolute_url }}"><button class="button button--secondary button--circle">🇬🇧</button></a></li>
           {%- endif -%}
           
           {%- if site.search.provider -%}

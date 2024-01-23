@@ -1,11 +1,8 @@
 ---
-title: Arrêter de commander sur Amazon
-permalink: /guide/fr/arreter-amazon
-key: guide-arreter-amazon
+title: Protégez-vous des cookies et des publicités intrusives
+permalink: /guide/fr/cookies-pub
+key: cookies-pub
 layout: wip
-tag:
-- GAFAM
-- MadeInEurope
 # guide:
 #     duree: 1h | 1j 
 #     difficulte: débutant / intermédiaire / confirmé
