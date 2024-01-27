@@ -86,22 +86,23 @@ guide-fr:
         url:    /guide/fr/alternatives_stockage_photos
         work-in-progress: true
 
-  - title:      Consommer autrement
+  - title:      Changer ses usages
     children:
       - title:  Arrêter de commander sur Amazon
         url:    /guide/fr/arreter-amazon
         work-in-progress: true
 
-      - title:  Changer sa façon de consommer les équipements et services numériques
+      - title:  Réduire son impact sur l'environnement
         url:    /guide/fr/changer_mode_consommation_du_numerique
         work-in-progress: true
 
-      - title:  Adopter un Fairphone
-        url:    /guide/fr/fairphone
-        work-in-progress: true
-
-  - title:      Ordinateur et Smartphone
+  - title:      "Equipements : PC, Smartphone..."
     children:
+
+      - title:  "Adopter le Fairphone : le téléphone éthique et écologique"
+        url:    /guide/fr/fairphone
+        work-in-progress: false
+
       - title:  Quitter Windows pour Linux
         url:    /guide/fr/quitter_windows_linux
         work-in-progress: true
