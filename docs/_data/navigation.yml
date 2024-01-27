@@ -3,8 +3,8 @@ header:
     - title: What's going wrong ?
       url: /en/whats_going_wrong
       key: whats_going_wrong
-    - title: There are alternatives !
-      url: /en/alternatives
+    - title: Which solutions ?
+      url: /en/solutions
       key: alternatives
     - title: Transition guide
       url: /guide/en/introduction
@@ -16,7 +16,7 @@ header:
     - title: Qu'est-ce qui ne va pas ?
       url: /fr/qu_est_ce_qui_ne_va_pas
       key: whats_going_wrong
-    - title: Quelles alternatives ?
+    - title: Quelles solutions ?
       url: /fr/solutions
       key: solutions
     - title: Guide de transition

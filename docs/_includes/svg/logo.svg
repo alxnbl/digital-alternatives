@@ -1,8 +1,11 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+	 viewBox="0 0 100 125" enable-background="new 0 0 100 100"> 
+	 <style type="text/css">
+	.st0{fill:#00000;}
+	.st0{fill:#fc4d50;}
+	</style>
+	<path class="st1" d="M64.6348724,35.4330635L37.5116768,17.5000477L10.3884287,35.4330635h12.3520994L5.4247689,83.0949173h64.0362244  L52.5257454,35.4330635H64.6348724z M36.3507423,26.0358772h2.1913033l0.2361755,4.8255615h-2.7284622L36.3507423,26.0358772z   M35.8638306,36.0387383h3.1376419l0.3614044,8.158741h-3.8000298L35.8638306,36.0387383z M35.3769188,50.7924042h4.209095  l0.3613472,9.351265h-4.8714256L35.3769188,50.7924042z M34.4400215,79.05793l0.3795586-11.7926865h5.3080902L40.5832748,79.05793  H34.4400215z"/>
+    <polygon class="st0" points="88.7165909,36.0387383 69.645462,41.384655 75.9528351,43.3532677 63.5317154,55.815136 73.0852661,77.8300552   88.7165909,47.2937546 95.4247665,49.304184 "/>
+    <!-- <text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Alexander Skowalsky</text>
+    <text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text> -->
 </svg>

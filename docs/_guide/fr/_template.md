@@ -4,7 +4,7 @@ permalink: /guide/fr/autres_ressources
 key: guide-autres_ressources
 guide:
     duree: 1h | 1j 
-    difficulte: débutant / intermédiaire / confirmé
+    technicity: novice / intermédiaire / confirmé
     cout: 1€/mois
     local-data: France / Europe / Auto-hébergé
 ---

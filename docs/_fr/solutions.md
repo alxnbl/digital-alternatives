@@ -35,4 +35,4 @@ Promotion de la Durabilité : Entretenir et réparer les équipements existants 
 
 # Par où commencer ? 🤷‍♂️
 
-Envie de changement ? Rendez-vous dans le [guide de transition]({{ "/guide/fr/introduction" | absolute_url }}) pour choisir parmi de nombreuses alternatives celles adaptées à votre rythme et vos envies.
+Envie de changement ? Rendez-vous dans le [guide de transition]({{ "/guide/fr/introduction" | absolute_url }}) pour choisir parmi de nombreuses alternatives celles qui vous conviennent.
