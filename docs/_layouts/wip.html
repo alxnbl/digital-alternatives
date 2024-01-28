@@ -2,7 +2,11 @@
 layout: article
 type: article
 ---
+{%- include snippets/get-lang.html -%}
+{%- assign _lang = __return -%}
 
-<h1 style="text-align: center; font-weight: initial;"><div style="font-size: 8rem; line-height: 1; ">🚧</div>En construction</h1>
+<h1 style="text-align: center; font-weight: initial;"><div style="font-size: 8rem; line-height: 1; ">🚧</div>
+    {{ site.data.locale[_lang].WORKINPROGRESS }}
+    </h1>
 
 {{ content }}

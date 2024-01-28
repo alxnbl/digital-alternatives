@@ -1,7 +1,6 @@
 ---
-layout: article
+layout: wip
 title: Welcome
 key: page-welcome
 ---
 
-To be completed

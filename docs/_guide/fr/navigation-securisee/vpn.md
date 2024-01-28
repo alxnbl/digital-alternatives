@@ -3,14 +3,9 @@ title: Surfer sur internet protégé par un VPN
 permalink: /guide/fr/vpn
 key: guide-vpn
 layout: wip
-tag:
-- Vie privée
-- Surveillance
-# guide:
-#     duree: 1h | 1j 
-#     difficulte: débutant / intermédiaire / confirmé
-#     cout: 1€/mois
-#     local-data: France / Europe / Auto-hébergé
+tags :
+- Vie Privée
+- Open Source
 ---
 
 

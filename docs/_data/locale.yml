@@ -21,6 +21,7 @@ en: &EN
   EMAIL_ME                : "Send me an Email."
   EMAIL_US                : "Send us an Email."
   COPYRIGHT_DATES         : "2021"
+  WORKINPROGRESS          : "Work in progress"
 
 
 ## => French
@@ -46,5 +47,6 @@ fr: &FR
   EMAIL_US                : "Envoyez-nous un courriel"
   COPYRIGHT_DATES         : "2021"
   DONATE                  : "Faites un don de [NAME]."
+  WORKINPROGRESS          : "En construction"
 
 # @end locale config

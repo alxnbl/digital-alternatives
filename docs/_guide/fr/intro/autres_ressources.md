@@ -3,11 +3,14 @@ title: Autres ressources
 permalink: /guide/fr/autres_ressources
 key: guide-autres_ressources
 layout: wip
-guide:
-    duree: 1m
-    difficulte: 1/5
-    cout: 1€/mois
-    local-data: Europe
+tags :
+- Seuvrage BigTech
+- Ma santé
+- Sobriété
+- MadeInEurope
+- Vie Privée
+- Souveraineté
+- Open Source
 ---
 
 ## En français

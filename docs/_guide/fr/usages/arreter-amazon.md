@@ -1,8 +1,13 @@
 ---
-title: Suivre l'actualité grâce aux flux RSS des sites que vous aimez
-permalink: /guide/fr/actualite_flux_rss
-key: actualite_flux_rss
+title: Arrêter de commander sur Amazon
+permalink: /guide/fr/arreter-amazon
+key: guide-arreter-amazon
 layout: wip
+tags :
+- Seuvrage BigTech
+- MadeInEurope
+- Vie Privée
+- Souveraineté
 # guide:
 #     duree: 1h | 1j 
 #     difficulte: débutant / intermédiaire / confirmé

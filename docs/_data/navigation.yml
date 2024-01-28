@@ -9,9 +9,9 @@ header:
     - title: Transition guide
       url: /guide/en/introduction
       key: guide
-    - title: About
-      url: /en/about
-      key: about
+    # - title: About
+    #   url: /en/about
+    #   key: about
   fr:
     - title: Qu'est-ce qui ne va pas ?
       url: /fr/qu_est_ce_qui_ne_va_pas
@@ -25,9 +25,9 @@ header:
     - title: Actu
       url: /blog/
       key: blog
-    - title: A propos
-      url: /fr/a_propos
-      key: about
+    # - title: A propos
+    #   url: /fr/a_propos
+    #   key: about
 
 guide-en:
   - title:      Work in progress
@@ -42,7 +42,7 @@ guide-fr:
     children:
       - title:  Comment suivre ce guide
         url:    /guide/fr/introduction
-        work-in-progress: true
+        work-in-progress: false
 
       - title:  Autres ressouces pour vous aider
         url:    /guide/fr/autres_ressources
@@ -84,6 +84,10 @@ guide-fr:
 
       - title:  Stocker ses photos hors de Google Photos et iCloud
         url:    /guide/fr/alternatives_stockage_photos
+        work-in-progress: true
+        
+      - title:  Remplacer Microsoft Office par Onlyoffice
+        url:    /guide/fr/onlyoffice
         work-in-progress: true
 
   - title:      Changer ses usages

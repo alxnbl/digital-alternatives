@@ -7,6 +7,14 @@ guide:
     technicity: novice / intermédiaire / confirmé
     cout: 1€/mois
     local-data: France / Europe / Auto-hébergé
+tags :
+- Seuvrage BigTech
+- Ma santé
+- Sobriété
+- MadeInEurope
+- Vie Privée
+- Souveraineté
+- Open Source
 ---
 
 # Pourquoi ?

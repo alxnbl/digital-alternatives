@@ -3,7 +3,11 @@ title: Adopter un Fairphone
 permalink: /guide/fr/fairphone
 key: fairphone
 layout: article
-#cover: /assets/images/guide/phone.jpg
+tags :
+- Sobriété
+- MadeInEurope
+- Vie Privée
+- Open Source
 article_header:
   type: overlay
   theme: dark #light

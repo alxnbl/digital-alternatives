@@ -1,11 +1,13 @@
 ---
-title: Arrêter de commander sur Amazon
-permalink: /guide/fr/arreter-amazon
-key: guide-arreter-amazon
+title: Adopter une adresse email éthique
+permalink: /guide/fr/adopter_adresse_email_ethique
+key: adopter_adresse_email_ethique
 layout: wip
-tag:
-- GAFAM
+tags :
+- Seuvrage BigTech
 - MadeInEurope
+- Vie Privée
+- Souveraineté
 # guide:
 #     duree: 1h | 1j 
 #     difficulte: débutant / intermédiaire / confirmé
