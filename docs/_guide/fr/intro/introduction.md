@@ -8,9 +8,9 @@ Vous pouvez naviguer à travers tous les articles de ce guide en utilisant le me
 
 Ce guide vise à vous présenter différentes alternatives sans prétendre contenir toutes les informations nécessaires pour les découvrir et les adopter. Il se contente d'expliquer le fonctionnement de chaque solution ainsi que ses avantages et inconvénients. Des liens sont également fournis à la fin de chaque article pour approfondir la solution et sa mise en œuvre.
 
-Les articles suivent généralement cette structure :
+Les articles suivent globalement cette structure :
 
-- Tags : Les objectifs auxquels répond l'alternative, par exemple la protection de la vie privée ou la reprise de contrôle des données.
-- Présentation rapide de la solution.
-- Synthèse des avantages et inconvénients.
-- Ressources pour aller plus loin.
+- Tags - Objectifs auxquels répond l'alternative
+- Présentation rapide de la solution
+- Synthèse des avantages et inconvénients
+- Ressources pour aller plus loin

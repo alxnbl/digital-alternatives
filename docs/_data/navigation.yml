@@ -114,3 +114,7 @@ guide-fr:
       - title:  Dégoogliser son téléphone Android
         url:    /guide/fr/degoogliser_son_telephone_android
         work-in-progress: true
+
+      - title:  Lowtech
+        url:    /guide/fr/lowtech
+        work-in-progress: true
