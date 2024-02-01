@@ -13,10 +13,9 @@ show_date: true
 # lightbox: true
 ---
 
-Ce site a pour but de sensibiliser le plus grand nombre aux problèmes posés par les services numériques dominant et d'accompagner les lecteurs dans l'adoption d'alternatives plus éthiques et responsables.
+Ce site à pour objectif de sensibilier aux défis posés par les services numériques dominant, et de vous accompagner dans l'adoptation d'alternatives plus éthiques et responsables.
 
 Carte du site :
-- [Qu'est-ce qui ne va pas ?](/fr/qu_est_ce_qui_ne_va_pas) : sensibilisation aux dérives des services numériques dominant
-- [Quelles solutions ?](/fr/solutions) : panorama des ecosystemes numeriques alternatifs et des valeurs qu'ils défendent
-- [Guide de transition](/guide/fr/introduction) : ressources pour vous accompagner dans le changement de vos usages numériques
-<!-- - Le blog : l'actualié du numérique alternatif -->
+- [Qu'est-ce qui ne va pas ?](/fr/qu_est_ce_qui_ne_va_pas) : Découvrez les dérives des services numériques dominants pour mieux comprendre les enjeux.
+- [Quelles solutions ?](/fr/solutions) : Explorez un panorama de solutions offertes par une offres de service et logiciels alternatifs
+- [Guide de transition](/guide/fr/introduction) : Trouvez des ressources pour vous accompagner dans la transition vers des usages numériques plus respectueux

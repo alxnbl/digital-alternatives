@@ -80,7 +80,7 @@ guide-fr:
     children:
       - title:  Stocker ses documents grâce à Nextcloud
         url:    /guide/fr/stocker_documents_nextcloud
-        work-in-progress: true
+        work-in-progress: false
 
       - title:  Stocker ses photos hors de Google Photos et iCloud
         url:    /guide/fr/alternatives_stockage_photos
@@ -96,8 +96,8 @@ guide-fr:
         url:    /guide/fr/arreter-amazon
         work-in-progress: true
 
-      - title:  Réduire son impact sur l'environnement
-        url:    /guide/fr/changer_mode_consommation_du_numerique
+      - title:  Sobriété et numérique
+        url:    /guide/fr/sobriete_numerique
         work-in-progress: true
 
   - title:      "Equipements : PC, Smartphone..."

@@ -1,7 +1,7 @@
 ---
 title: Changer son mode de consommation du numérique
-permalink: /guide/fr/changer_mode_consommation_du_numerique
-key: guide-changer_mode_consommation_du_numerique
+permalink: /guide/fr/sobriete_numerique
+key: guide-sobriete_numerique
 layout: wip
 tags :
 - Ma santé

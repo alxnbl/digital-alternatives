@@ -47,7 +47,7 @@ De plus, le Fairphone 5 est produit dans le respect des normes de travail équit
 - Une autonomie limitée
 - Une qualité de photos en retrait sur la concurence
 
-# Aller plus loin
+# En savoir plus
 
 - [Fairphone.com - Présentation](https://shop.fairphone.com/fr/fairphone-5){:target="_blank"}{:rel="noopener noreferrer"}   
 - Tests
