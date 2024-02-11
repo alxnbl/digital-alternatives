@@ -28,7 +28,7 @@ En somme, l'adoption des logiciels open source est un moyen stratégique et effi
 
 Toutes les alternatives présentées dans ce guide se base donc logiquement en parti ou totalement sur des logiciels dit open-source.
 
-# Comment contribuer ?
+# Comment contribuer
 
 Pour contribuer au développement des logiciels open-source, vous pouvez :
 

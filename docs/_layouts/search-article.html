@@ -1,12 +1,20 @@
 ---
 layout: page
-title: Tags
+<!-- title: Recherche par thème -->
+titles:
+  en: Search by theme
+  fr: Recherche par thème
 ---
+
+
+{%- include snippets/get-lang.html -%}
+{%- assign _lang = __return -%}
 
 <div class="layout--archive js-all">
   {%- include tags2.html -%}
   <div class="js-result layout--archive__result d-none">
-    {%- include article-list2.html articles=site.posts type='brief' show_info=true reverse=true -%}
+    {% assign articleList = site.guide | where_exp: "item", "item.lang == _lang" %}
+    {%- include article-list2.html articles=articleList type='brief' show_info=true reverse=true -%}
   </div>
 </div>
 
@@ -15,6 +23,3 @@ title: Tags
 </script>
 
 {{ content }}
-
-
-{{ site.guide_tags }}

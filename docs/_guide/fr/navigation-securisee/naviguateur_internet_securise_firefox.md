@@ -5,7 +5,6 @@ key: naviguateur_internet_securise_firefox
 layout: wip
 tags :
 - Seuvrage BigTech
-- Sobriété
 - Vie Privée
 - Souveraineté
 - Open Source
