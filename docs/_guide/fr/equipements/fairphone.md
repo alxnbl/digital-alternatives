@@ -49,8 +49,8 @@ De plus, le Fairphone 5 est produit dans le respect des normes de travail équit
 
 # En savoir plus
 
-- [Fairphone.com - Présentation](https://shop.fairphone.com/fr/fairphone-5){:target="_blank"}{:rel="noopener noreferrer"}   
-- Tests
+- [Fairphone.com - Présentation](https://shop.fairphone.com/fr/fairphone-5){:target="_blank"}  
+- Revues
   - [Les Numériques - Test Fairphone 5](https://www.lesnumeriques.com/telephone-portable/fairphone-5-p73835/test.html){:target="_blank"}{:rel="noopener noreferrer"} : le smartphone modulaire gagne en maturité
   - [Frandroid - Test Fairphone 5](https://www.frandroid.com/test/1799297_test-fairphone-5-smartphone-ethique){:target="_blank"}{:rel="noopener noreferrer"} : la recette du smartphone éthique se peaufine
 - Acheter le Fairphone

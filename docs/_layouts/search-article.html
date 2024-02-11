@@ -6,7 +6,7 @@ title: Tags
 <div class="layout--archive js-all">
   {%- include tags2.html -%}
   <div class="js-result layout--archive__result d-none">
-    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true -%}
+    {%- include article-list2.html articles=site.posts type='brief' show_info=true reverse=true -%}
   </div>
 </div>
 
@@ -15,3 +15,6 @@ title: Tags
 </script>
 
 {{ content }}
+
+
+{{ site.guide_tags }}

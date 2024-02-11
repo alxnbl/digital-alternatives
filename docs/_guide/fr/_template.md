@@ -7,6 +7,7 @@ guide:
     technicity: novice / intermédiaire / confirmé
     cout: 1€/mois
     local-data: France / Europe / Auto-hébergé
+published: false
 tags :
 - Seuvrage BigTech
 - Ma santé

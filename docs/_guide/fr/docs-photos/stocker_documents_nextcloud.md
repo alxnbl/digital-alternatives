@@ -73,5 +73,5 @@ En savoir plus :
 
 # En savoir plus
 
-[Nextcloud.com](https://nextcloud.com/fr/){:target="_blank"}
-[Nextcloud.com - Essai gratuit](https://nextcloud.com/fr/instant-trial/){:target="_blank"}
+- [Nextcloud.com](https://nextcloud.com/fr/){:target="_blank"}
+- [Nextcloud.com - Essai gratuit](https://nextcloud.com/fr/instant-trial/){:target="_blank"}

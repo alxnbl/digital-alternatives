@@ -43,10 +43,14 @@ guide-fr:
       - title:  Comment suivre ce guide
         url:    /guide/fr/introduction
         work-in-progress: false
+        
+      - title:  Les logiciels libres ou open-source
+        url:    /guide/fr/opensource
+        work-in-progress: false
 
       - title:  Autres ressouces pour vous aider
         url:    /guide/fr/autres_ressources
-        work-in-progress: true
+        work-in-progress: false
 
   - title:      Navigation sécurisée sur internet
     children:
@@ -118,3 +122,13 @@ guide-fr:
       - title:  Lowtech
         url:    /guide/fr/lowtech
         work-in-progress: true
+
+
+tags:
+- Seuvrage BigTech
+- Ma santé
+- Sobriété
+- MadeInEurope
+- Vie Privée
+- Souveraineté
+- Open Source

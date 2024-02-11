@@ -202,6 +202,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - /_posts/link-previews
 
 collections:
   guide:
@@ -237,7 +238,7 @@ defaults:
         nav: guide-en
       license: false
       aside:
-        toc: false
+        toc: true
       lang: en
       show_edit_on_github: true
       show_date: true
@@ -251,7 +252,7 @@ defaults:
         nav: guide-fr
       license: false
       aside:
-        toc: false
+        toc: true
       lang: fr
       show_edit_on_github: true
       show_date: true
@@ -281,6 +282,9 @@ defaults:
       show_date: false
       # lightbox: true
 
+relative_links:
+  collections: true
+  
 ## => Plugins
 ##############################
 plugins:
@@ -288,3 +292,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+guide_tags :
+- a: Seuvrage BigTech
+  b:
+    size: 1
+- a: Sobriété
+  b:
+    size: 1
